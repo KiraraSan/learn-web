@@ -1,0 +1,21 @@
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color: rgb(224, 196, 250);
+}
+
+section {
+  padding: 4rem;
+}
+
+#gallery {
+  background-color: rgb(224, 196, 250);
+}
+
+footer {
+  padding: 1rem;
+  background-color: purple;
+}
+
+#contact {
+  min-height: 1000px;
+}

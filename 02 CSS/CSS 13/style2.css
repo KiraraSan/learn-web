@@ -1,0 +1,18 @@
+.container {
+	width: 600px;
+	border: 1px solid black;
+	margin: auto;
+	padding: 5px;
+}
+
+.kotak {
+	width: 100px;
+	height: 100px;
+	background-color: salmon;
+	color: white;
+	text-align: center;
+	line-height: 100px;
+	font-size: 20px;
+	margin: 5px;
+	float: left;
+}

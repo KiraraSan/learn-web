@@ -1,0 +1,31 @@
+body {
+	font-family: arial;
+}
+
+h1, h2 {
+	color: green;
+}
+
+ul li a {
+	color: red;
+}
+
+ol li a {
+	color: purple;
+}
+
+.page1 {
+	color: yellow;
+}
+
+.page2 {
+	color: pink;
+}
+
+.italic {
+	font-style: italic;
+}
+
+p.italic {
+	font-size: 20px;
+}

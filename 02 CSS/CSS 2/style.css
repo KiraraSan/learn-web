@@ -1,0 +1,11 @@
+h1 {
+	font-family: arial;
+	font-size: 60px;
+	font-variant: small-caps;
+	font-style: italic;
+}
+
+p {
+	font-family: sans-serif;
+	line-height: 40px;
+}
