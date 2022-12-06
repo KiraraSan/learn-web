@@ -1,3 +1,2 @@
 # learn-web
-My first coding lesson
-this code from and inspired by Wab Programming Unpas/Sandika Galih 
+My first coding lesson. This code from and inspired by Web Programming Unpas/Sandika Galih 
